@@ -1,0 +1,5 @@
+4
+Dinara 1 1 1 1 1
+Asan 0 1 1 1 0
+Roman 0 0 0 1 1
+Esen 0 0 0 0 1
